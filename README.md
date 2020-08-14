@@ -1,4 +1,6 @@
+![github_image](https://user-images.githubusercontent.com/66937239/90219834-892f7880-de24-11ea-9b60-dcd9fd09fbb1.jpg)
 ### Hi there 👋
+
 
 <!--
 **titancoder/titancoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
